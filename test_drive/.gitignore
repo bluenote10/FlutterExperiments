@@ -41,10 +41,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-
-# I'm not really sure if these files are supposed to be gitignored
-# but they feel like they should.
-linux/
-macos/
-web/
-windows/
